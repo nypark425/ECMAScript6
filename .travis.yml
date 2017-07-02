@@ -3,4 +3,5 @@ node_js:
   - "6"
 install:
   - npm install
+before_script: cd travis-test
 script: node_modules/karma/bin/karma start --single-run --browsers PhantomJS
