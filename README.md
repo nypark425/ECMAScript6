@@ -1,3 +1,5 @@
+![travis ci](https://travis-ci.org/nypark425/ECMAScript6.svg?branch=master)
+
 # ECMAScript6
 ## Description
 ### 소개
