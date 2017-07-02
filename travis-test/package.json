@@ -1,0 +1,19 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "description": "travis test for ECMAScript6 Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nypark425/ECMAScript6.git"
+  },
+  "author": "nypark425",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nypark425/ECMAScript6/issues"
+  },
+  "homepage": "https://github.com/nypark425/ECMAScript6#readme"
+}
