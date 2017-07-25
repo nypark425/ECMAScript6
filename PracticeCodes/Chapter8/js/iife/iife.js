@@ -18,7 +18,7 @@
   }
 
   window.math = math;  // math 변수로 메인 프로그램에 export
-}) (window
+}) (window)
 //모듈 끝
 
 console.log(math.findSum(1, 2)); // 실행 결과 "3"

@@ -9,8 +9,11 @@ var dir_js = path.resolve(__dirname, 'js');
 var dir_html = path.resolve(__dirname, 'html');
 var dir_build = path.resolve(__dirname, 'build');
 
+var build_file = 'main.js';
+// var build_file = 'iife.js';
+
 module.exports = {
-    entry: path.resolve(dir_js, 'main.js'),
+    entry: path.resolve(dir_js, build_file),
     output: {
         path: dir_build,
         filename: 'bundle.js'
